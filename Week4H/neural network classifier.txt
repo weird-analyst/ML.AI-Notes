@@ -1,0 +1,22 @@
+TODO:
+Simpler Algorithm try
+Make Kaggle Notebook
+
+DONE:
+Polynomial Regression
+Linear Regression
+Ridge Regression
+Lasso Regression
+Gradient Boosting 
+Random Forest
+K-Nearest Neighbors (KNN)
+polynomial ridge
+polynomial lasso
+catboost
+xgboost
+random forest regression
+Support Vector Regression (SVR)
+Gaussian Process Regression
+Bayesian Regression
+Neural Network Regressor 
+Ridge Regression with polynomial features degree =3 
